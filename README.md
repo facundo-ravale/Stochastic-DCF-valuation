@@ -1,5 +1,5 @@
 # Stochastic-DCF-valuation
-EN: Probabilistic DCF valuation model in Python for private companies in emerging markets. Combines traditional discounted cash flow logic with Monte Carlo simulation to capture uncertainty in key financial and operational drivers.
+Probabilistic DCF valuation model in Python for private companies in emerging markets. Combines traditional discounted cash flow logic with Monte Carlo simulation to capture uncertainty in key financial and operational drivers.
 
 # Stochastic Valuation Model in Python
 
@@ -77,5 +77,5 @@ MIT License. You are free to use and adapt the code, but attribution is apprecia
 ## 🤝 Contact
 Feel free to reach out for feedback, collaboration, or implementation in real-world use cases:
 
-📧 facundo.ravale@gmail.com  
+📧 facundo.ravalealonso@gmail.com  
 📎 [LinkedIn](https://www.linkedin.com/in/facundo-ravale-alonso)
